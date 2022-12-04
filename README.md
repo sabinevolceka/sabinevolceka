@@ -1,9 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=30&duration=1500&pause=1000&color=FF1B97&background=6ECF4200&center=true&multiline=true&width=500&height=120&lines=HI+THERE!;MY+NAME+IS+SABINE;I'M+QA+AUTOMATION+ENGINEER" alt="Typing SVG" /></a>
 
 
-## 📌  Find me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/sabinevolceka/) &nbsp;
-
+ 📌  Find me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/sabinevolceka/) &nbsp;
 <hr> 
+
+![Alt Text](https://i.gifer.com/76dA.gif)
+
 
 ## 🛠  Technologies and tools I work with:
 
@@ -53,9 +55,7 @@
 
 <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" height="35" /> &nbsp;
 
+<hr> 
 
 
-
-
-![Alt Text](https://i.gifer.com/To9O.gif)
 
