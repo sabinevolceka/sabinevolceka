@@ -57,6 +57,6 @@
 
 <hr> 
 
-<img src="https://64.media.tumblr.com/ddf208ca2bfc40c187656a516e330c0b/459f6052b0175c93-10/s540x810/e02d29d3894a7ffd34da5d78b331d6ca4e8ab9cd.gif" height="110" /> &nbsp;
+<img src="https://thumbs.gfycat.com/ActiveEmotionalArcticduck-size_restricted.gif" height="250" /> &nbsp;
 
 
